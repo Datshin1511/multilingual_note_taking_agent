@@ -1,5 +1,17 @@
 # multilingual_note_taking_agent
-Voice AI
+An AI-powered multilingual note-taking assistant built for fast-paced, multilingual work environments. Designed to transcribe, summarise, and organise meeting notes in English, Mandarin, French, etc., making meetings more efficient, searchable, and accessible, especially for less tech-savvy users.
+
+🚀 What It Does
+🎙️ Transcribes meeting audio using Alibaba Cloud ASR or local open-source ASR engines
+
+📝 Generates concise summaries and action points via LangChain + Qwen / DeepSeek
+
+🔍 Enables keyword and topic-based search within transcripts
+
+📄 Exports meeting notes as PDF or shareable text
+
+🌐 Supported Formats
+Recorded audio files (online meeting recordings, offline audio)
 
 # installed packages
 
